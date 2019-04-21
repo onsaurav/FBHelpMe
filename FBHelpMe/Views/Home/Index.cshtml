@@ -1,0 +1,152 @@
+﻿@using FBHelpMe.Models
+@using Microsoft.AspNet.Mvc.Facebook.Models
+@using System.Web.Script.Serialization
+@model MyAppUserExt
+@{
+    ViewBag.Title = "Home Page";    
+}
+
+@section Scripts {   
+<script src="~/Scripts/Highcharts-3.0.1/js/highcharts.js"></script>
+<script src="~/Scripts/Highcharts-3.0.1/js/modules/exporting.js"></script>
+
+
+<script type="text/javascript">
+    //var dataitem = [['Engineer', 25], ['Doctor', 20], ['Teacher', 30], ['Jurnalist', 15], ['Writer', 5], ['Businessman', 3], ['Others', 2]];
+    var dataitem = @Html.Raw(Model.ChartData)
+
+    $(function () {
+        var chart;
+
+        $(document).ready(function () {
+            // Build the chart
+
+            $('#container').highcharts({
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false
+                },
+                title: {
+                    text: 'Profession Wise Friends'
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: false
+                        },
+                        showInLegend: true
+                    }
+                },
+                series: [{
+                    type: 'pie',
+                    name: 'Profession ',
+                    data: dataitem
+                }]
+            });
+        });
+
+    });
+</script>
+    }
+
+<article class="intro">
+    <span id="profilePicture">
+        @if (Model.ProfilePicture != null && Model.ProfilePicture.Data != null)
+        {
+            <img src="@Model.ProfilePicture.Data.Url" />
+        }
+    </span>
+    <h2>Welcome in Help Me</h2>
+    <label id="labelName">@Model.Name</label><br/>
+    <label>Email: @Model.Email</label>
+</article>
+
+<article id="content">
+    <div class="left">
+        <h4>Friends</h4>
+        <div class="ContentBox">
+            @if (Model.Friends != null && Model.Friends.Data != null && Model.Friends.Data.Count > 0)
+            {
+                foreach (var myFriend in @Model.Friends.Data)
+                {
+                    <a href="@myFriend.Link" target="_blank">
+                        <div class="photoTile">
+                            <label>@myFriend.Name</label>
+                            @if (myFriend.Picture != null && myFriend.Picture.Data != null)
+                            {
+                                <img src="@myFriend.Picture.Data.Url" />
+                            }
+                        </div>
+                    </a>
+                }
+            }
+            else
+            {
+                <p>No friends found.</p>
+            }
+        </div>
+
+        <h4>Professional Wise list</h4>
+        <div class="professionaContentBox">
+            <table style="width:100%;">
+                <tr class="professiontableHeader">
+                    <td style="width:55%;">Professions</td>
+                    <td>Friends</td>
+                    <td>Percentage</td>
+                </tr>
+
+                @if (Model.Professions != null && Model.Professions.Count > 0)
+                {
+                    foreach (var Profession in @Model.Professions)
+                    {
+                        <tr>
+                            <td style="width:55%;">@Profession.Professions</td>
+                            <td>@Profession.TotalFriends</td>
+                            <td>@Profession.Percentage %</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3">No Profession available</td>
+                    </tr>
+                }
+            </table>
+        </div>
+
+        @*<h4>Professional Wise list</h4>*@
+        <div class="pieContentBox">
+            <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+        </div>
+    </div>
+
+    
+    @*<div class="right">
+        <h4>Photos</h4>
+        <div class="ContentBox">
+            @if (Model.Photos != null && Model.Photos.Data != null && Model.Photos.Data.Count > 0)
+            {
+                foreach (var photo in @Model.Photos.Data)
+                {
+                    <a href="@photo.Link" target="_blank">
+                        <div class="photoTile">
+                            <img src="@photo.ThumbnailUrl" />
+                        </div>
+                    </a>
+                }
+            }
+            else
+            {
+                <p>No photo available.</p>
+            }
+        </div>
+    </div>*@    
+
+</article>

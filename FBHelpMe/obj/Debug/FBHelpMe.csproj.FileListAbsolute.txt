@@ -1,0 +1,111 @@
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll.config
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\FBHelpMe.pdb
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Facebook.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Microsoft.Web.Infrastructure.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Http.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Razor.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\WebGrease.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Facebook.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Http.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.Razor.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.xml
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.pdb
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.csprojResolveAssemblyReference.cache
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.dll
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.pdb
+E:\My Soft\MVC\FBHelpMe\FBHelpMe\bin\DotNet.Highcharts.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll.config
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\FBHelpMe.pdb
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\DotNet.Highcharts.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Facebook.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Http.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Razor.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\WebGrease.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Facebook.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Http.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.Razor.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.xml
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.pdb
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.csprojResolveAssemblyReference.cache
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.dll
+C:\Users\KartikChandra\Desktop\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.pdb
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll.config
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\FBHelpMe.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\FBHelpMe.pdb
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\DotNet.Highcharts.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Facebook.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Microsoft.Web.Infrastructure.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Http.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Razor.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\WebGrease.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Facebook.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Newtonsoft.Json.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Net.Http.Formatting.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Helpers.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Http.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Http.WebHost.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Mvc.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Microsoft.AspNet.Mvc.Facebook.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Optimization.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.Razor.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Deployment.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\System.Web.WebPages.Razor.xml
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\bin\Antlr3.Runtime.pdb
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.csprojResolveAssemblyReference.cache
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.dll
+E:\My Soft\MVC\Facebook Apps\HelpMe\FBHelpMe\FBHelpMe\obj\Debug\FBHelpMe.pdb

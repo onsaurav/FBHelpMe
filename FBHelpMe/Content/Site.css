@@ -1,0 +1,220 @@
+﻿body {
+    font-family: "Segoe UI", Arial;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    overflow: hidden;
+    height: 229px;
+    padding: 20px;
+    margin: 0;
+    width: 700px;
+}
+
+header h1 {
+        font-size: 80px;
+        color: #004C66;
+        margin: 0;
+        padding-top: 20px;
+        font-weight: normal;
+    }
+
+header h2 {
+        font-size: 25px;
+        color: #FFFFFF;
+        margin: 0;
+        font-weight: normal;
+    }
+
+h3 {
+    font-size: 20px;
+    color: #444;
+    margin: 0;
+    padding: 10px 10px 8px 10px;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 12px;
+    color: #004C66;
+    margin: 0;
+    padding: 20px 0 5px 0;
+}
+
+p {
+    font-size: 12px;
+    color: #444;
+    margin: 10px;
+}
+
+#topHeader {
+    background-image: url("../images/background.png");
+}
+
+    #topHeader p {
+        margin-left: 55px;
+    }
+
+#arrow {
+    float: left;
+    margin: 8px 15px 0 0;
+    padding: 20px;
+    background: url("../images/arrow.png") no-repeat;
+}
+
+#wrapper {
+    margin: 0 auto;
+    height: 175px;
+    width: 90%;
+}
+
+#content {
+    clear: both;
+    margin-top: 130px;
+}
+
+#contentnext {
+    clear: both;
+    margin-top: 50px;
+}
+
+#profilePicture {
+    float: left;
+}
+
+#profilePicture img {
+        margin: 20px 20px 0 20px;
+    }
+
+.intro {
+    background-color: #4479BA;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.ContentBox
+{    
+    max-height:250px;
+    overflow:auto;
+    width: auto;
+}
+
+.professionaContentBox
+{
+    max-height:130px;
+    overflow:auto;
+    width: auto;
+}
+
+.pieContentBox
+{
+    max-height:405px;
+    overflow:auto;
+    width: auto;
+}
+
+.clear {
+    clear: both;
+}
+
+.left {
+    width: 48%;
+    float: left;
+    border-top: 1px solid #eee;
+}
+
+.right {
+    width: 50%;
+    float: right;
+    border-top: 1px solid #eee;
+}
+
+.photoTile {
+    float: left;
+    width: 85px;
+    height: 95px;
+    overflow: hidden;
+    margin: 0 5px 5px 0;
+    display: block;
+    position: relative;
+    background-color: #ADDDE3;
+    border: none;
+}
+
+.photoTile img {
+        margin: -2px;
+        padding: 0;
+    }
+
+.photoTile label {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        margin: 5px;
+        color: white;
+        font-size: 11px;
+        font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    }
+
+.buttonLink {
+    margin: 5px;
+    padding: 10px;
+    background: #4479BA;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+    .buttonLink:hover {
+        background: #6194d3;
+    }
+
+footer {
+    padding-top: 50px;
+    clear: both;
+    font-size: 1em;
+    height: 100px;
+    text-align: center;
+}
+
+#labelName
+{
+    font-size:20px;
+    font-weight:bold;
+    color:#FFFFFF;
+}
+
+
+
+/* TABLE START 
+    ----------------------------------------------------------*/
+
+table {
+    border:solid 1px #e8eef4;
+    border-collapse: collapse;
+}
+
+table tr {
+    border:  solid 1px #e8eef4;
+}
+
+table td {
+    padding: 5px;
+    border:  solid 1px #e8eef4;
+}
+
+table th {
+    padding: 6px 5px;
+    text-align: left;
+    background-color: #e8eef4;
+    border: solid 1px #e8eef4;
+}
+
+.professiontableHeader {
+    background-color:#4479BA;
+}
+
+/* TABLE END 
+    ----------------------------------------------------------*/
